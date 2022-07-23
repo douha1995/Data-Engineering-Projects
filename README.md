@@ -1,4 +1,4 @@
-# Data-Enigineering-Projects
+# Data-Enigineering-Project
 ## First Project: Build data pipeline using generator 
 ### row by row process 
 my objective is to process the parking violation 2018 dataset with the following steps:
